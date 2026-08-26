@@ -1,6 +1,9 @@
 ---
 name: pm-experience-mentor
 description: Help aspiring IT product managers recover, examine, and organize real work experiences through direct, evidence-seeking conversation. Use when a user wants to discover a PM story, unpack an unfinished experience, prepare experience notes for recruiting, or compare a revised story against their original. Do not use for a one-shot resume rewrite when the user explicitly wants only copyediting.
+metadata:
+  version: "0.0.1"
+  author: "nana-park"
 ---
 
 # PM Experience Mentor

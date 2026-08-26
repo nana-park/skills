@@ -4,7 +4,7 @@ Personal collection of reusable Codex skills. Each top-level skill folder is sel
 
 ## Available skills
 
-### `pm-experience-mentor`
+### [`pm-experience-mentor`](./pm-experience-mentor/README.md)
 
 Helps aspiring IT product managers discover and organize real work experiences through a candid, adaptive mentoring conversation. It can also create an evidence-backed visual comparison against the user's original draft.
 
