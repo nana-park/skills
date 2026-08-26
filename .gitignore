@@ -1,0 +1,11 @@
+# Private source material
+source-material/
+private/
+*.transcript.txt
+*.session.txt
+
+# Local and generated files
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc

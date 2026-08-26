@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM Experience Mentor"
+  short_description: "대화로 PM 경험을 발굴하고 변경점을 시각화합니다"
+  default_prompt: "Use $pm-experience-mentor to discover my PM experience through conversation and show evidence-backed revisions against my original draft."
