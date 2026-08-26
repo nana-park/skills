@@ -107,6 +107,7 @@ Copy-Item -Recurse -Force `
 ```text
 pm-experience-mentor/
 ├── README.md
+├── CHANGELOG.md
 ├── SKILL.md
 ├── agents/
 │   └── openai.yaml
@@ -117,6 +118,7 @@ pm-experience-mentor/
 ```
 
 - `README.md`: 사람이 읽는 소개, 설치 및 관리 방법
+- `CHANGELOG.md`: 미배포 변경과 버전별 변경 이력
 - `SKILL.md`: 에이전트가 따르는 핵심 행동 지침
 - `mentor-style.md`: 질문법, 직설성, 대화 리듬
 - `pm-story-rubric.md`: PM 경험 판단 기준
@@ -178,6 +180,10 @@ Codex에 로컬 자료와 현재 스킬을 함께 제공하고 다음처럼 요�
 
 실제 개인정보가 포함된 자료를 테스트 결과나 스냅샷으로 커밋하지 않습니다.
 
+### 5. 변경 로그 작성
+
+아직 배포하지 않은 변경은 [`CHANGELOG.md`](./CHANGELOG.md)의 `[Unreleased]` 아래에 먼저 기록합니다. 새 버전을 만들 때 해당 항목을 버전 번호와 릴리스 날짜 아래로 이동합니다.
+
 ## 버전 관리
 
 현재 초기 버전은 `0.0.1`입니다.
@@ -197,6 +203,8 @@ Codex에 로컬 자료와 현재 스킬을 함께 제공하고 다음처럼 요�
 metadata:
   version: "0.0.1"
 ```
+
+같은 버전 번호를 README의 현재 버전과 `CHANGELOG.md`에도 반영합니다.
 
 모노레포 전체가 아니라 이 스킬의 릴리스를 나타내도록 Git 태그는 다음 형식을 권장합니다.
 
