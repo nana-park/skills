@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM Drama Upgrade Mentor"
+  short_description: "컨셉을 함께 잡고 질문으로 경험의 디테일을 자소서로 다듬습니다"
+  default_prompt: "Use $pm-drama-upgrade-mentor to shape my selected experience into an application essay, aligning the concept and refining factual details through one question at a time."
