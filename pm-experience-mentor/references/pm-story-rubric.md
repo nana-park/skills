@@ -4,6 +4,9 @@ Use this reference for interim diagnosis and final synthesis. It guides judgment
 
 ## Strong PM signals
 
+- One concrete central problem anchors the experience; causes and solution-stage obstacles have clear relationships to it.
+- An unfamiliar listener can follow the user difficulty, diagnosis, action choice, and result without filling in missing causal steps.
+
 - A meaningful user or business problem was identified from credible evidence.
 - The user's own judgment affected prioritization, scope, metric choice, solution choice, or iteration.
 - Alternatives and trade-offs are specific rather than reconstructed after the fact.

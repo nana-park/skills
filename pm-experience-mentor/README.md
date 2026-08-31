@@ -1,12 +1,15 @@
 # PM Experience Mentor
 
-> 현재 버전: `0.0.2`
+> 현재 버전: `0.0.3`
 
 IT Product Manager 취업을 준비하는 사용자가 자신의 경험을 대화로 복원하고, 실제 PM 판단이 드러나는 이야기로 정리하도록 돕는 Codex 스킬입니다.
 
 이 스킬은 초안을 받자마자 완성된 문장으로 고치는 첨삭기가 아닙니다. 사용자의 답변에서 중요한 단서, 빠진 인과관계, 모호한 기여도와 숨겨진 트레이드오프를 발견하고, 한 번에 하나씩 질문하며 경험을 함께 찾아갑니다.
 
 ## 주요 기능
+
+- 경험 하나에 핵심 문제 하나: 사용자 문제에서 출발해 원인·증상·해결 과정의 제약을 구분
+- 문제의 발생·발견·해결 순서를 추적하고, 제3자가 납득할 수 있는 인과관계인지 점검
 
 - 경력직 전문성이 드러나도록 표현·관점·강조점과 경험 간 연결을 적극적으로 재구성
 - 목표 JD·역량에 맞는 이야기 방향을 먼저 제안하고 대화로 구체화
@@ -118,6 +121,7 @@ pm-experience-mentor/
     ├── mentor-style.md
     ├── pm-story-rubric.md
     ├── strategic-framing.md
+    ├── problem-spine.md
     └── visual-revision.md
 ```
 
@@ -128,6 +132,7 @@ pm-experience-mentor/
 - `pm-story-rubric.md`: PM 경험 판단 기준
 - `visual-revision.md`: 원문 대비 시각적 변경 규칙
 - `strategic-framing.md`: 목표 역량에 맞춘 관점 전환, 경험 연결, 전문적 재구성
+- `problem-spine.md`: 하나의 핵심 사용자 문제 발견, 앞뒤 관계와 설득력 검증
 
 ## 추가 자료로 스킬 업데이트하기
 

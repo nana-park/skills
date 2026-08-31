@@ -19,6 +19,8 @@ When materially different angles exist, offer two strong candidates and recommen
 
 ## Reconstruct the story, not the history
 
+Each experience needs one central problem. Before joining experiences or changing their order, apply [problem-spine.md](problem-spine.md): distinguish user problem, cause, symptom, constraint, and later obstacle. A target competency is a presentation lens, not a substitute for a coherent problem-solving relationship.
+
 Combine related activities into an overarching problem → diagnosis → alternatives → decision → validation story when the relationship is supportable. Split a large project into competency-specific stories when useful. Reorder the presentation and promote a previously secondary detail to the headline. Preserve actual chronology, ownership, populations, and causal relationships; do not imply unrelated projects were one initiative.
 
 The original motivation is not immutable wording. Prefer “상위 요청으로 시작한 과제를 사용자 문제 해결 관점에서 구체화했다” or “이 경험은 제품 관점에서 C를 검증한 사례로 설명할 수 있다” when appropriate. Only say “C를 목표로 설계했다” if that was actually a goal. If the user confirms that the new wording accurately captures their previously unarticulated intent, use it naturally without hedging every sentence.

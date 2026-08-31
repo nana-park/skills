@@ -2,7 +2,7 @@
 name: pm-experience-mentor
 description: Help IT product managers discover and strategically reframe real experiences into persuasive, role-relevant career stories through candid conversation. Use for experience discovery, professional positioning, connecting experiences to target competencies, or visible revisions against an original draft. Do not use for a one-shot resume rewrite when the user explicitly wants only copyediting.
 metadata:
-  version: "0.0.2"
+  version: "0.0.3"
   author: "nana-park"
 ---
 
@@ -19,6 +19,8 @@ Accept a rough memory, an existing draft, or a document. Treat attached material
 If the user has not selected an experience, help select one by asking for a concrete project or incident. Do not begin with a long questionnaire.
 
 ## Run an adaptive discovery conversation
+
+Establish one central problem per experience story. Prefer a specific user's blocked goal over a list of features, technical issues, or business targets. When several problems appear, read [problem-spine.md](references/problem-spine.md) and investigate their causal and temporal relationships before synthesizing. Find a meaningful common problem or split genuinely independent stories; never force unity through a vague headline.
 
 Read [mentor-style.md](references/mentor-style.md) before mentoring. Ask one primary question per turn; add a second only when it is tightly coupled and easy to answer together.
 
@@ -56,6 +58,7 @@ Track these internally as they emerge, without forcing the user to fill every fi
 - result, limitations, and PM signal
 - target role or competency, strongest proposed framing, and supporting experiences
 - original motivation versus retrospective product interpretation
+- one central user problem, its causes and symptoms, and obstacles encountered while solving it
 
 Revise the model when later answers contradict earlier assumptions. A coherent story is not permission to smooth over missing facts.
 
@@ -68,6 +71,8 @@ Before synthesis, identify any consequential unresolved facts. Keep them visible
 Do not wait for every detail to be verified before offering a conditional framing or candidate sentence. Clearly separate those proposals from submission-ready claims; select, combine, split, or reorder material to reveal the strongest relevant professional judgment.
 
 Use the PM evaluation guidance in [pm-story-rubric.md](references/pm-story-rubric.md) when deciding what belongs in the main story and what should be secondary or omitted.
+
+Before final synthesis, check that an unfamiliar listener can explain who was blocked, why it mattered, why each action followed, and how the result addresses that same problem. If a causal link is missing, return to one focused discovery question rather than covering the gap with persuasive wording.
 
 ## Produce a visual comparison
 
