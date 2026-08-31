@@ -24,7 +24,9 @@ Use this reference for interim diagnosis and final synthesis. It guides judgment
 
 ## Story classification
 
-Classify the experience by its strongest real signal. It may be:
+Treat classification as a choice of positioning, not a fixed property of the original draft. Explore alternative lenses and related supporting experiences before choosing the main signal for the target role.
+
+Classify the experience by its strongest relevant signal. It may be:
 
 - product discovery and diagnosis;
 - prioritization and product judgment;
@@ -38,6 +40,8 @@ Classify the experience by its strongest real signal. It may be:
 Say when a story is useful but better placed as a secondary example. Do not downgrade it merely because it lacks a textbook structure; first investigate whether the relevant evidence exists.
 
 ## Synthesis shape
+
+The original project's business trigger can be background while the user's product judgment becomes the headline. Distinguish that reframing from claiming a different historical goal.
 
 Choose the structure that best exposes the actual judgment. A useful default is:
 

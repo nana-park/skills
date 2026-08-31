@@ -13,6 +13,7 @@ Every visible change must belong to one of these categories:
 | Original retained | black text | plain text |
 | Proposed deletion | red strikethrough | `~~deleted~~` |
 | Mentor rewrite | blue text | `**[제안 문장]**` |
+| Strategic reframing or connection | blue text with framing label | `**[재구성 제안]**` |
 | Newly discovered fact or judgment | purple text | `**[새로 발굴]**` |
 | Unresolved fact or evidence | orange highlight/text | `[확인 필요: ...]` |
 | Mentor rationale or question | gray comment where supported | `> 멘토 코멘트: ...` |
@@ -22,7 +23,7 @@ If the target surface already has a meaningful color convention, preserve it and
 ## Revision rules
 
 - Deletion means the original wording is weak, redundant, misleading, or misplaced. It does not mean the underlying experience never happened.
-- A rewrite may improve structure but must not add new facts.
+- A rewrite may change professional vocabulary, emphasis, narrative structure, and interpretation; it need not preserve the user's initial wording or framing. Label a new interpretation as a reframing proposal rather than a newly discovered fact. Do not silently introduce new historical claims.
 - A newly discovered statement must be supported by the user's conversation or source material.
 - An unresolved statement remains a question or placeholder and must not appear as fact in the clean copy.
 - When content moves, mark the old location as moved and identify the new section; do not make it look deleted.
