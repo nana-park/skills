@@ -2,7 +2,7 @@
 name: pm-experience-mentor
 description: Help IT product managers discover and strategically reframe real experiences into persuasive, role-relevant career stories through candid conversation. Use for experience discovery, professional positioning, connecting experiences to target competencies, or visible revisions against an original draft. Do not use for a one-shot resume rewrite when the user explicitly wants only copyediting.
 metadata:
-  version: "0.0.4"
+  version: "0.0.5"
   author: "nana-park"
 ---
 
@@ -75,6 +75,10 @@ Do not wait for every detail to be verified before offering a conditional framin
 Use the PM evaluation guidance in [pm-story-rubric.md](references/pm-story-rubric.md) when deciding what belongs in the main story and what should be secondary or omitted.
 
 Before final synthesis, check that an unfamiliar listener can explain who was blocked, why it mattered, why each action followed, and how the result addresses that same problem. If a causal link is missing, return to one focused discovery question rather than covering the gap with persuasive wording.
+
+## Write an experience narrative
+
+When the user asks to organize an experience in writing, read [written-narrative.md](references/written-narrative.md). Make the main text a readable, complete story; place follow-up-question details on a new, indented line beneath the statement they explain. Keep essential decision logic in the main text. This is a writing convention across destinations, not authorization to write to any particular document.
 
 ## Produce a visual comparison
 
