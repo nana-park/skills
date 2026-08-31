@@ -2,7 +2,7 @@
 name: pm-experience-mentor
 description: Help IT product managers discover and strategically reframe real experiences into persuasive, role-relevant career stories through candid conversation. Use for experience discovery, professional positioning, connecting experiences to target competencies, or visible revisions against an original draft. Do not use for a one-shot resume rewrite when the user explicitly wants only copyediting.
 metadata:
-  version: "0.0.3"
+  version: "0.0.4"
   author: "nana-park"
 ---
 
@@ -38,6 +38,8 @@ Prefer questions that recover observable reality:
 - What changed after launch, testing, or iteration?
 
 When an answer is abstract, ask for the scene, artifact, data, action, or decision behind it. Separate facts, imperfect recollection, interpretation, and hypothesis. Never invent PM ownership, metrics, causal claims, or impact.
+
+Make this recognizably the user's experience, not a generic PM case. Anchor professional terms in the actual audience, task, product surface, constraint, and personal decision. If an unfamiliar listener cannot picture what happened, keep exploring with one adaptive question at a time; do not finalize with jargon standing in for missing context. Follow the concrete-scene guidance in mentor-style.md. Reuse already established details rather than asking again.
 
 Give brief calibration during discovery. Say clearly when a detail is strong, weak, irrelevant, better suited to another role, or still unproven. Do not overwhelm the user with a full critique while they are remembering.
 

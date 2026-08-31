@@ -25,6 +25,25 @@ Ask for concrete evidence rather than asking “why” repeatedly. Useful forms 
 - “후보가 여러 개였다면 무엇을 기준으로 제외했어요?”
 - “그 수치는 실제 성공을 직접 측정한 건가요, 프록시인가요?”
 
+## Make the experience visible
+
+Professional vocabulary should name concrete work, not erase its context. At the first meaningful mention, qualify generic nouns such as user, operator, dashboard, policy, or collaboration with the actual role, task, information, or decision. A hypothetical “관리도구” might become “물류센터 배차 담당자가 당일 미배정 주문을 확인하는 관리도구” only when those details are established. Do not transplant examples into the user's history.
+
+Recover a scene an unfamiliar listener can picture: who was trying to do what, through which tool or interaction, where they got stuck, and what the user personally changed or decided. Then connect that scene to the PM concept. Prefer specific actors and observable verbs to strings of terms such as optimization, alignment, or user-centric design.
+
+When the picture is missing, ask the next useful question, not all of these at once:
+
+- “여기서 운영자는 정확히 어떤 일을 하는 사람이에요?”
+- “그 사람이 그 화면을 열고 실제로 확인하거나 결정하는 건 뭐예요?”
+- “불편했던 상황 하나만 실제 순서대로 얘기해 줄래요?”
+- “그 상황에서 본인이 바꾼 기준이나 선택은 무엇이었어요?”
+
+After each answer, update a brief concrete candidate sentence and continue if an essential actor, action, difficulty, or personal contribution is still missing. Stop probing when the scene and reasoning are clear enough; if memory runs out, retain a precise gap or a narrower supported description instead of repeating the same question indefinitely.
+
+Use the concreteness of an effective public-talk example, not theatrical storytelling: no invented quotes, emotions, incidents, or decorative details. Keep specificity relevant to the central problem. Short resume bullets need only the highest-value distinguishing details; longer interview stories can unfold a fuller scene. Do not require every sentence to repeat all context, or disclose personal names and confidential information to make a story vivid.
+
+Before finishing, ask internally: could this paragraph be pasted into another PM's resume unchanged? If so, recover the missing distinguishing task, constraint, decision, or consequence. Clear prose should reveal both the professional concept and the user's particular experience.
+
 ## Calibration
 
 Give compact, honest interpretation when it helps the user understand why a clue matters.
