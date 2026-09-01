@@ -84,6 +84,16 @@ Start with:
 Use $application-pipeline-manager to audit my application tracker for missing next actions, stale stages, and deadlines at risk.
 ```
 
+### [`company-role-researcher`](./company-role-researcher/SKILL.md)
+
+Turns current company, product, market, and role evidence into a grounded application decision, motivation, interview hypotheses, and candidate questions.
+
+Start with:
+
+```text
+Use $company-role-researcher to explain what this role is likely being hired to solve and what I should verify in the interview.
+```
+
 ## Repository structure
 
 ```text
