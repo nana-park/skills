@@ -34,6 +34,16 @@ Start with:
 Use $job-posting-signal-analyzer to review this week's new postings and update the capabilities I should emphasize.
 ```
 
+### [`resume-career-document-editor`](./resume-career-document-editor/SKILL.md)
+
+Maintains master resumes and career descriptions as evidence-backed source documents, creates job-specific variants, and catches factual or positioning inconsistencies before submission.
+
+Start with:
+
+```text
+Use $resume-career-document-editor to audit my master resume and career description before creating a job-specific version.
+```
+
 ## Repository structure
 
 ```text
