@@ -2,7 +2,7 @@
 name: company-role-researcher
 description: Research a target company's organization, products, market context, and role-specific problems, then turn current evidence into application motivation, interview hypotheses, and candidate questions. Use for 기업·조직·직무 리서치, 지원동기 근거, 면접 전 회사 분석, and 입사 후 기여 가설; not for broad job-market signal analysis or unsupported insider speculation.
 metadata:
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Company Role Researcher
@@ -23,6 +23,18 @@ metadata:
 - 사용자의 어떤 경험이 이 문제와 실제로 연결되는가
 
 정보를 많이 모으는 것보다 지원 판단이나 면접 답변을 바꾸는 근거를 우선한다.
+
+## 회사별 통합 보고서를 관리하기
+
+연결된 `company_research_document`가 있으면 전체 탭 구조를 먼저 읽고 다음 규칙을 따른다.
+
+- `프롬프트` 탭은 보고서 요구사항과 조사 관점의 기준으로 읽으며 회사별 결과로 덮어쓰지 않는다.
+- 회사 하나당 회사명을 제목으로 한 최상위 탭 하나를 사용한다.
+- 동일 회사 탭이 이미 있으면 새 탭을 중복 생성하지 않고, 사용자의 요청에 따라 기존 내용을 검토하거나 최신화한다.
+- 기존 회사 탭은 구조와 깊이를 참고할 수 있지만, 그 회사의 사실·출처·추론을 새 회사 보고서로 가져오지 않는다.
+- 사용자가 회사 조사와 문서 작성을 요청한 경우에만 탭을 추가하거나 내용을 수정한다.
+
+최종 산출물은 회사별 탭 안의 통합 보고서 하나로 제공한다. 내부적으로는 자료 수집, 사실·추론 분리, 사용자 경험 대조와 작성·검증을 나눠 수행할 수 있으며, 긴 보고서는 안전한 여러 쓰기 단위로 반영해도 사용자에게 미완성 중간 보고서를 최종본처럼 제시하지 않는다.
 
 ## 최신성과 출처 수준을 관리하기
 
