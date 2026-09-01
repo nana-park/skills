@@ -94,6 +94,16 @@ Start with:
 Use $company-role-researcher to explain what this role is likely being hired to solve and what I should verify in the interview.
 ```
 
+### [`offer-decision-advisor`](./offer-decision-advisor/SKILL.md)
+
+Compares offer economics, negotiation options, role scope, career trajectory, and risk instead of optimizing for base salary alone.
+
+Start with:
+
+```text
+Use $offer-decision-advisor to compare this offer with my current package and assess whether the role improves my next two to three years of career options.
+```
+
 ## Repository structure
 
 ```text
