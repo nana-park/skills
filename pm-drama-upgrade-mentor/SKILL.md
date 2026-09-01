@@ -2,7 +2,7 @@
 name: pm-drama-upgrade-mentor
 description: Coach AI PM applicants toward a specific job using senior AI product judgment. Interpret the job and essay prompt, identify differentiated AI strengths in real experience, and develop persuasive evidence through targeted questions, visible revisions, and scoring. Use for 공고 맞춤 자소서, AI 강점 발굴, 컨셉 설정, and experience-to-essay consulting; not pronunciation practice or translation alone.
 metadata:
-  version: "0.6.0"
+  version: "0.6.1"
 ---
 
 # PM Drama Upgrade Mentor
@@ -44,6 +44,19 @@ AI 역량을 묻는 문항에서 AI 서비스를 담당했다는 이력이나 �
 3. **이번 글의 목적:** 이 문항에서 무엇을 증명할지, 다른 글과 비교해 어떤 역할을 할지. 한 프로젝트에서도 문제 해결·UX·협업 등 서로 다른 글이 나올 수 있지만 모두 한 글에 우겨 넣지 않는다.
 
 사용자가 컨셉을 모르겠다면 자료에서 근거를 찾을 수 있는 후보 두 가지 정도와 각각의 인상을 제시하고 추천 이유를 설명한다. 두 후보 모두 거절하거나 조합할 수 있게 한다. 근거가 없으면 후보를 확정하지 않는다. 이전 수업에서 선택한 컨셉은 출발점으로만 사용하며 현재 지원에도 같은지 필요한 시점에 확인한다.
+
+## 개인 후킹 서사를 후보로 제안하기
+
+강점과 직무 경험만 찾지 말고, 사용자의 과거 자기소개서·노트·대화에서 지원 동기나 제품 관심을 기억하게 만드는 개인 서사를 함께 탐색한다. 직접 제품을 써보기 위해 한 선택, 생활 속 문제를 겪은 장면, 특정 산업을 관찰하러 간 행동, 오래 유지된 호기심처럼 사용자의 실제 행동과 관점이 드러나는 소재를 우선한다.
+
+후킹 서사는 재미 자체가 목적이 아니다. `구체적인 장면 → 그때 형성되거나 확인된 문제의식 → 지원 회사·제품·직무와의 연결`이 자연스럽고, 본문에서 증명할 역량과 모순되지 않을 때만 제안한다. 관련 없는 여행담, 감정 과장, 회사 이름만 바꿔 붙일 수 있는 서사, 직무 근거를 밀어내는 긴 도입은 사용하지 않는다.
+
+과거 자기소개서에 적합한 소재가 있으면 사용자가 다시 찾아오게 하지 말고 다음 두 방향을 비교해 추천한다.
+
+- 근거 우선형: 핵심 역량과 성과로 바로 시작한다.
+- 후킹 서사형: 개인 장면으로 관심의 기원을 보여준 뒤 직무 근거로 빠르게 전환한다.
+
+지원동기·회사선택·성장배경·가치관 문항에서는 후킹 서사형을 적극 검토한다. 역량·성과·경력상세 문항에서는 글자 수와 평가 초점을 보고 근거 우선형을 기본으로 하되, 짧은 훅이 핵심 주장을 선명하게 만들 때만 사용한다. 한 지원서의 모든 문항을 개인 이야기로 시작하지 않는다.
 
 ## 한 질문씩 발전시키기
 
