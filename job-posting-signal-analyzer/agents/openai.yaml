@@ -1,0 +1,4 @@
+interface:
+  display_name: "채용공고 시그널 분석"
+  short_description: "신규 공고의 반복 역량과 어필 키워드를 분석합니다"
+  default_prompt: "Notion 채용달력의 신규 공고를 분석해 반복 요구역량과 내 경험에서 강조할 키워드를 업데이트해줘."
