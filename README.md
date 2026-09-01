@@ -54,6 +54,16 @@ Start with:
 Use $interview-strategy-coach to audit which interview questions are not yet evidence-ready and prioritize my next rehearsal.
 ```
 
+### [`portfolio-strategy-builder`](./portfolio-strategy-builder/SKILL.md)
+
+Selects evidence-backed PM cases, assigns each one a distinct proof role, and turns real artifacts or safe reconstructions into a target-role portfolio plan.
+
+Start with:
+
+```text
+Use $portfolio-strategy-builder to select portfolio cases for this role and create briefs for the mockups or Figma screens they need.
+```
+
 ## Repository structure
 
 ```text
