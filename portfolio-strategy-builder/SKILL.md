@@ -2,7 +2,7 @@
 name: portfolio-strategy-builder
 description: Select and structure evidence-backed PM portfolio cases for a target role, define each case's proof strategy, and turn real artifacts or safe reconstructions into a coherent narrative. Use for 포트폴리오 기획, 프로젝트 사례 선정, 목차·페이지 구조, 목업·Figma 작업 지시, and portfolio review; not for visual production alone or inventing missing experience.
 metadata:
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 # Portfolio Strategy Builder
@@ -75,6 +75,18 @@ metadata:
 - 포트폴리오를 바탕으로 나올 질문과 반문은 `interview-strategy-coach`로 검증한다.
 
 이미 검증된 경험을 다른 형식으로 옮긴다는 이유로 처음부터 다시 인터뷰하지 않는다.
+
+## 부정적 피드백에서는 전략을 다시 검증하기
+
+사용자가 결과물을 `별로다`, `설득력이 없다`, `나답지 않다`고 평가하거나 전면 재구성을 요청하면 이를 단순한 문구·레이아웃 수정으로 축소하지 않는다.
+
+1. 무엇이 약한지 짧게 확인한다. 사례 선택, 핵심 주장, 이야기 흐름, 시각 증거, 표현 톤과 목표 공고 적합성을 구분한다.
+2. 현재 전략이 의존한 가정과 경험 근거를 표시한다.
+3. `experience_index`를 다시 읽어 기존에 제외했거나 놓친 경험 후보를 재검토한다.
+4. 유지하거나 새로 선택할 후보의 관련 파일 원본을 다시 확인한다.
+5. 기존 전략 유지, 사례 교체, 핵심 주장 변경 또는 전체 구조 변경 중 적절한 범위를 제안한다.
+
+사용자가 전략 자체에 불만을 밝혔는데 기존 요약과 같은 경험만 재배열해 다시 제시하지 않는다. 다만 색상·간격·컴포넌트 같은 시각적 수정만 명확히 요청한 경우에는 경험 소스를 다시 읽지 않아도 된다.
 
 ## 결과물을 작업 단위로 남기기
 
