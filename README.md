@@ -74,6 +74,16 @@ Start with:
 Use $career-time-manager to decide what I can realistically finish today around my existing commitments.
 ```
 
+### [`application-pipeline-manager`](./application-pipeline-manager/SKILL.md)
+
+Keeps application stages, deadlines, submitted artifacts, next actions, and outcome evidence consistent from target selection through offer.
+
+Start with:
+
+```text
+Use $application-pipeline-manager to audit my application tracker for missing next actions, stale stages, and deadlines at risk.
+```
+
 ## Repository structure
 
 ```text
