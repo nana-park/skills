@@ -44,6 +44,16 @@ Start with:
 Use $resume-career-document-editor to audit my master resume and career description before creating a job-specific version.
 ```
 
+### [`interview-strategy-coach`](./interview-strategy-coach/SKILL.md)
+
+Audits interview readiness across a question bank, stress-tests evidence with follow-up questions, and turns rehearsal feedback into focused preparation.
+
+Start with:
+
+```text
+Use $interview-strategy-coach to audit which interview questions are not yet evidence-ready and prioritize my next rehearsal.
+```
+
 ## Repository structure
 
 ```text
