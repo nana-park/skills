@@ -64,6 +64,16 @@ Start with:
 Use $portfolio-strategy-builder to select portfolio cases for this role and create briefs for the mockups or Figma screens they need.
 ```
 
+### [`career-time-manager`](./career-time-manager/SKILL.md)
+
+Combines application deadlines, personal availability, carry-over work, and task effort into a realistic daily career-prep plan.
+
+Start with:
+
+```text
+Use $career-time-manager to decide what I can realistically finish today around my existing commitments.
+```
+
 ## Repository structure
 
 ```text
