@@ -2,11 +2,6 @@
 
 Personal collection of reusable Codex skills. Each top-level skill folder is self-contained and includes its own `SKILL.md`.
 
-Career-preparation work shares a small set of principles and routing rules:
-
-- [`career-prep/PRINCIPLES.md`](./career-prep/PRINCIPLES.md)
-- [`career-prep/SKILL_ROUTING.md`](./career-prep/SKILL_ROUTING.md)
-
 ## Available skills
 
 ### [`pm-experience-mentor`](./pm-experience-mentor/README.md)
@@ -43,9 +38,6 @@ Use $job-posting-signal-analyzer to review this week's new postings and update t
 
 ```text
 skills/
-├── career-prep/              Shared workflow guidance; not a skill
-│   ├── PRINCIPLES.md
-│   └── SKILL_ROUTING.md
 └── skill-name/
     ├── SKILL.md
     ├── agents/
