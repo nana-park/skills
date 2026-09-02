@@ -6,9 +6,9 @@ Personal collection of reusable Codex skills. Each top-level skill folder is sel
 
 범용성이 높은 도구부터 취업 단계에 특화된 도구 순으로 정렬했습니다.
 
-| No. | Skill | 범용성 | 하는 일 | 주로 사용할 때 |
+| No. | Skill | 범용성 | 기능 | 사용 예시 |
 |---:|---|---|---|---|
-| 1 | [`mobile-capture-extractor`](./mobile-capture-extractor/SKILL.md) | 범용 | 모바일 캡처의 신규·중복 판별, 연속 캡처 묶기, OCR·출처 추출, 시각자료 크롭, 구조화 저장과 안전한 원본 처리를 수행합니다. 용도별 프로필을 교체해 다른 프로젝트에서도 재사용할 수 있습니다. | 스마트폰 캡처를 지식 자료나 업무 기록으로 정리할 때 |
+| 1 | [`mobile-capture-extractor`](./mobile-capture-extractor/SKILL.md) | 범용 | 모바일의 앨범에 저장된 웹페이지 캡처사진을 정리합니다. 신규·중복 판별, 연속 캡처 묶기, OCR·출처 추출, 시각자료 크롭, 구조화 저장과 안전한 원본 처리를 수행합니다. 용도별 프로필을 교체해 다른 프로젝트에서도 재사용할 수 있습니다. | 스마트폰 캡처를 지식 자료나 업무 기록으로 정리할 때 |
 | 2 | [`career-time-manager`](./career-time-manager/SKILL.md) | 운영 공통 | 마감, 개인 일정, 가용시간, 이월 작업과 예상 소요시간을 결합해 실행 가능한 일정을 만듭니다. | 하루·주간 취업 준비 우선순위를 정할 때 |
 | 3 | [`application-pipeline-manager`](./application-pipeline-manager/SKILL.md) | 운영 공통 | 관심 공고부터 지원·면접·오퍼까지 단계, 마감, 제출물, 다음 행동과 결과 데이터를 일관되게 관리합니다. | 지원 현황을 점검하고 누락된 다음 행동을 찾을 때 |
 | 4 | [`company-role-researcher`](./company-role-researcher/SKILL.md) | 지원 공통 | 회사·제품·시장·직무 근거를 조사해 지원 판단, 지원동기, 면접 가설과 확인 질문으로 전환합니다. | 새로운 회사나 직무를 검토할 때 |
