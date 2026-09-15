@@ -2,7 +2,7 @@
 name: application-prework-strategist
 description: Analyze a target job description, every application question, and current company evidence before drafting application essays or preparing interviews. Produce one reusable, evidence-labeled job and application strategy report; do not use for writing the final essay itself.
 metadata:
-  version: "0.3.0"
+  version: "0.4.0"
 ---
 
 # Application Prework Strategist
@@ -66,10 +66,13 @@ JD 문장을 단순 재배열하지 말고 실제 일의 단위와 채용 논리
 - 맞지 않는 소재와 흔한 실패 방식
 - 다른 문항과의 역할 분담 및 중복 방지
 - 첫 문단이 해야 할 일
+- 전체 글자 수와 문항 중요도에 따른 문단별 역할·목표 글자 수
 
 모든 문항을 억지로 직무역량 문항으로 만들지 않는다. 성장 과정은 가치관 형성·판단 습관·성장 가능성을, 사회 이슈는 이슈 선정 기준·논리·관점의 균형을 볼 수도 있다. 회사와 직무의 언어는 평가 의도를 선명하게 할 때만 연결한다. 문항 원문에 없는 `데이터 역량`, `글로벌 역량`, `AI 전문성`을 매번 숨은 의도로 단정하지 않는다.
 
 `이 질문에 답하지 못하면 채용자가 무엇을 의심할까?`를 먼저 정한 뒤 평가 포인트를 만든다. 평가 포인트마다 어떤 문장이나 사례가 증거가 되는지 연결하지 못하면 추상적인 분석으로 보고 다시 좁힌다.
+
+문항 분석을 끝낼 때는 초안보다 먼저 분량 설계표를 제시한다. `문단 / 역할 / 핵심 주장·증거 / 목표 글자 수 / 중요도`를 적고 목표 글자 수 합계가 문항 제한과 맞는지 확인한다. 제목과 공백을 글자 수에 포함하는지 명시한다. 균등 배분하지 말고 평가 비중이 큰 핵심 판단·행동·성과에 가장 많은 분량을 준다. 배경은 독자가 행동의 이유를 이해하는 데 필요한 만큼만 배정한다.
 
 ## 3. 기업 분석
 
@@ -103,6 +106,7 @@ AI 조사는 기술 이름의 목록이 아니라 변화와 사업 역할을 보
 - 회사 고유성과 직무 전문성을 만드는 표현
 - 피해야 할 범용 문구와 근거 없는 유행어
 - 부족한 증거를 복원하기 위한 다음 질문
+- 대표 경험별 숫자 후보와 `규모 / 제약 / 행동 / 성과` 구분
 
 ### 면접 전략
 

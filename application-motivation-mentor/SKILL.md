@@ -2,7 +2,7 @@
 name: application-motivation-mentor
 description: Research and coach a job application's 지원동기 using current company IR, company developments, talent values, domain context, and the target role, then build a human Give & Take narrative around domain fit, career fit, and culture fit. Use for 지원동기 문항 분석·질문·작성·첨삭; not for general company research without an application or for reusing a generic motivation paragraph across documents.
 metadata:
-  version: "0.3.0"
+  version: "0.4.0"
 ---
 
 # Application Motivation Mentor
@@ -88,6 +88,8 @@ Give만 쓰면 직무역량 문항처럼 되고, Take만 쓰면 회사가 제공
 
 첫 문단에는 가능하면 `개인적 관심의 계기 → 기업 성과 숫자와 출처 → 공식 AI 제품명 또는 직무 관련 변화 → 내가 주목한 이유`를 짧게 연결한다. 숫자와 제품명이 문장의 주인공이 되지 않게 하고, 지원자의 선택 논리를 증명하는 근거로 쓴다.
 
+초안 전에 문단별 역할과 목표 글자 수를 먼저 제시한다. 전체 제한 안에서 회사 선택 이유와 도메인 fit, 커리어 fit, 문화 fit, Take에 몇 자를 쓸지 정하되 동일 비율로 나누지 않는다. 회사 정보는 조사량을 과시하기보다 선택 이유를 증명하는 데 필요한 만큼만 배정한다.
+
 ## 다른 서류와 겹치지 않게 쓰기
 
 지원동기는 이력서와 경력기술서에 이미 있는 성과를 다시 요약하는 칸이 아니다.
@@ -123,6 +125,8 @@ Give만 쓰면 직무역량 문항처럼 되고, Take만 쓰면 회사가 제공
 - 세 fit을 동일한 길이와 문법으로 기계적으로 맞추지 않는다.
 
 자연스러운 접속과 구체적인 주어·행동을 사용한다. 사용자의 평소 어휘를 살리되 제출용 문체는 단정하게 정리한다.
+
+문장을 짧게 끊은 뒤에도 문장 사이의 논리 관계를 남긴다. 역접에는 `그러나`, 원인에는 `이 때문에`, 판단의 귀결에는 `따라서`, 시간 진행에는 `이후`처럼 의미가 맞는 격식 있는 연결어를 선택한다. 있어 보이기 위한 접속사 반복이나 실제 관계가 없는 연결은 피한다.
 
 ## 출력과 평가
 
