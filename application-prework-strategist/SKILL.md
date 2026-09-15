@@ -2,7 +2,7 @@
 name: application-prework-strategist
 description: Analyze a target job description, every application question, and current company evidence before drafting application essays or preparing interviews. Produce one reusable, evidence-labeled job and application strategy report; do not use for writing the final essay itself.
 metadata:
-  version: "0.4.0"
+  version: "0.4.1"
 ---
 
 # Application Prework Strategist
@@ -14,6 +14,8 @@ metadata:
 목표 공고의 자기소개서 문항을 쓰기 전에 이 분석을 먼저 완료한다. 같은 회사·동일한 JD 버전으로 만든 리포트가 있으면 재사용하고, 공고가 바뀌었거나 시점 의존 정보가 오래되었을 때만 갱신한다. 면접 준비는 제출 당시 리포트를 불러온 뒤 최근 이슈와 공시만 새로 확인한다.
 
 필요 입력은 전체 JD 원문, 회사·직무명, 모든 자기소개서 문항과 글자 수다. 일부만 확보되었으면 가능한 분석부터 수행하고 누락 범위를 표시한다. 제출 마감이 임박했고 사용자가 바로 작성을 요청하면 작업을 멈추지 말고 최소한 `직무 한 줄 정의·해당 문항 의도·핵심 회사 근거·쓸 증거`를 먼저 확정한 뒤 작성 스킬로 넘긴다.
+
+자기소개서 문항을 확보하지 못했으면 반드시 사용자에게 `지원서의 전체 자기소개서 문항과 각 문항의 글자 수 제한을 보내줘`라고 요청한다. 단순히 `문항 없음`으로 표시하고 분석을 생략하거나 선행작업 완료로 처리하지 않는다. 답변을 기다리는 동안 JD와 기업 조사는 진행하고 문항 분석은 `자료 요청 중`으로 남긴다. 일부 문항만 있으면 나머지 문항을 요청하되 이미 제공받은 내용은 다시 요구하지 않는다. 사용자가 실제로 자기소개서가 없는 전형이라고 확인했거나 기업·직무 조사만 명시적으로 요청한 경우에는 그 범위로 완료한다. 자유양식이라는 답변은 문항 부재로 취급하지 말고 제출 형식과 분량을 확인해 구성 전략을 제안한다.
 
 지원자 경험과 맞춤 전략을 판단할 때는 현재 대화와 연결된 경력 원문을 확인한다. 이미 확인된 경험은 다시 묻지 않는다.
 
