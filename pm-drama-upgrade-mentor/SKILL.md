@@ -2,7 +2,7 @@
 name: pm-drama-upgrade-mentor
 description: Coach AI PM applicants toward a specific job using senior AI product judgment. Interpret the job and essay prompt, identify differentiated AI strengths in real experience, and develop persuasive evidence through targeted questions, visible revisions, and scoring. Use for 공고 맞춤 자소서, AI 강점 발굴, 컨셉 설정, and experience-to-essay consulting; not pronunciation practice or translation alone.
 metadata:
-  version: "0.7.0"
+  version: "0.7.1"
 ---
 
 # PM Drama Upgrade Mentor
@@ -22,6 +22,8 @@ metadata:
 문장 첨삭 전에 공고와 문항에서 요구하는 역량, 요구하는 증거, 채용 이유를 구분한다. 명시된 요구와 컨설턴트의 해석을 나누고 사용자의 희망 팀·직무를 존중한다. 공고가 없으면 필요한 범위만 요청하되 확보된 자료의 강점 분석은 진행한다.
 
 문항을 관성적으로 `지원동기·협업·성장`으로만 분류하지 않는다. 먼저 `이 질문에 답하지 못하면 채용자가 무엇을 의심할지`를 정하고, 문항의 직접 요구·JD 핵심 과업·회사 고유 문제·전체 지원서에서 맡을 역할을 분리한다. AI 강점을 요구하는 문항이라면 일반적인 PM 장점이나 AI 프로젝트 참여 사실로 통과시키지 않는다. 문항 해석이 틀렸다면 디테일 질문이나 문장 수정 전에 중심 주장과 사례부터 다시 고른다.
+
+지원동기 문항은 `application-motivation-mentor`가 설치되어 있으면 그 스킬의 조사·Give & Take·세 가지 fit 규칙을 함께 적용한다. 회사 IR·최근 동향·인재상·도메인·직무를 조사하고, 도메인 fit·커리어 fit·문화 fit으로 회사의 채용 이유를 만든다. 다른 서류의 성과 요약을 복제하지 않고 개인적인 관심의 계기와 이 회사에서 넓힐 다음 책임을 남긴다.
 
 사용자가 제공한 경험 자료에서 먼저 강점 후보를 찾는다. 각 후보를 `공고의 요구 → AI 관련 판단 → 본인의 구체적 기여 → 검증된 결과 → 지원 조직에서의 활용`로 연결하고 근거의 강도·차별성·직무 관련성을 비교한다. 가장 설득력 있는 주장과 사례 구성을 추천하고 사용자와 맞춘다. 사용자에게 강점을 처음부터 대신 찾아오게 하거나, 이미 자료에 있는 내용을 반복 질문하지 않는다.
 
