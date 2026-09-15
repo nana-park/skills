@@ -2,7 +2,7 @@
 name: application-motivation-mentor
 description: Research and coach a job application's 지원동기 using current company IR, company developments, talent values, domain context, and the target role, then build a human Give & Take narrative around domain fit, career fit, and culture fit. Use for 지원동기 문항 분석·질문·작성·첨삭; not for general company research without an application or for reusing a generic motivation paragraph across documents.
 metadata:
-  version: "0.1.0"
+  version: "0.2.0"
 ---
 
 # Application Motivation Mentor
@@ -10,6 +10,8 @@ metadata:
 목적은 회사 정보를 요약하는 것이 아니라, **왜 이 사람이 지금 이 회사와 직무를 선택했고 회사는 왜 이 사람을 뽑아야 하는지**를 인간적으로 설득하는 것이다. 지원동기 문항을 다른 서류의 경력 요약이나 직무역량 문항처럼 만들지 않는다.
 
 ## 먼저 조사하기
+
+`application-prework-strategist`가 설치되어 있으면 지원동기를 쓰기 전에 그 스킬의 직무·전체 문항·기업·지원 전략 리포트를 먼저 만들거나 재사용한다. 이 스킬에서는 지원동기에 필요한 회사 선택 이유와 세 가지 fit의 빈 근거만 추가 조사한다. 같은 IR·공고·기업 이슈를 처음부터 반복 수집하지 않는다.
 
 글을 쓰기 전에 목표 공고 원문과 다음 네 영역을 확인한다.
 

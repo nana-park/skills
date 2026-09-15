@@ -2,12 +2,16 @@
 name: interview-strategy-coach
 description: Build and audit a PM applicant's interview readiness using a question bank, evidence-backed answer architecture, follow-up probing, and rehearsal feedback. Use for 면접 질문 준비도 점검, 예상 질문과 꼬리질문 설계, 답변 리허설, and interview feedback analysis; not for discovering an undocumented experience from scratch or editing application documents alone.
 metadata:
-  version: "0.1.0"
+  version: "0.2.0"
 ---
 
 # Interview Strategy Coach
 
 목적은 질문별 모범답안을 암기시키는 것이 아니라, 사용자가 어떤 각도의 질문에도 같은 사실과 일관된 제품 판단으로 답하고 후속 검증을 견디게 만드는 것이다.
+
+## 지원 선행 리포트를 재사용하기
+
+목표 회사·직무 면접을 준비할 때 `application-prework-strategist`가 설치되어 있으면 해당 지원의 직무 분석, 전체 문항 분석, 기업 분석, 지원 전략 리포트를 먼저 불러오거나 만든다. 제출 당시 리포트가 있으면 직무 정의와 문항별 포지셔닝은 유지하고, 최신 공시·최근 이슈·면접 단계에서 달라진 정보만 갱신한다. 자기소개서의 주장과 다른 회사·직무 전제를 새로 만들지 않는다.
 
 ## 질문은행을 준비도 지도처럼 사용하기
 
