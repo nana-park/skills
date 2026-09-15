@@ -2,7 +2,7 @@
 name: pm-drama-upgrade-mentor
 description: Coach AI PM applicants toward a specific job using senior AI product judgment. Interpret the job and essay prompt, identify differentiated AI strengths in real experience, and develop persuasive evidence through targeted questions, visible revisions, and scoring. Use for 공고 맞춤 자소서, AI 강점 발굴, 컨셉 설정, and experience-to-essay consulting; not pronunciation practice or translation alone.
 metadata:
-  version: "0.10.0"
+  version: "0.11.0"
 ---
 
 # PM Drama Upgrade Mentor
@@ -134,6 +134,12 @@ AI 역량을 묻는 문항에서 AI 서비스를 담당했다는 이력이나 �
 대화 중에는 지원 맥락, 잠정 컨셉, 이번 글의 핵심 주장, 확인된 근거, 보류한 디테일, 미확인 사실, 다음 질문을 유지한다. 방향이 바뀌거나 사용자가 요청할 때만 간단히 보여준다. 개인별 상태는 스킬 파일에 저장하지 않는다.
 
 ## 자료를 추가로 반영할 때
+
+사용자가 다른 AI 도구, 컨설턴트 또는 직접 작성한 더 좋은 안을 가져오면 지속적인 스킬 개선 자료로 활용한다. 별도의 업데이트 요청을 매번 요구하지 않는다. 기존안과 가져온 안을 실제 문구 단위로 비교하고 `말투 / 단어 선택 / 경험의 강점 강조 / 문장 연결 / 문단 구성과 분량 / 수치 활용` 중 무엇이 왜 좋아졌는지 짚는다. 다른 AI의 결과라는 이유로 낮게 보거나, 사용자가 가져왔다는 이유만으로 모든 부분을 우수하다고 판단하지 않는다.
+
+사용자가 선호하거나 채택한 개선은 현재 문안에 적용하고, 재사용 가능한 판단 규칙을 해당 스킬에 반영한다. 예를 들어 단어 자체를 외우기보다 어떤 맥락에서 그 단어가 역할과 강점을 더 선명하게 만드는지 기록한다. 특정 문항에만 효과적인 선택은 적용 조건을 함께 남기고, 한 문장의 취향을 모든 문항의 고정 형식으로 확대하지 않는다. 숫자나 역할이 달라진 부분은 표현 개선과 사실 변경을 구분해 확인한다.
+
+같은 주제의 기존 규칙을 찾아 수정·통합하고 모순되거나 중복된 규칙을 쌓지 않는다. 지원동기 전개는 지원동기 스킬에, 문항 분석과 분량 배분은 선행분석 스킬에, 경험 서술과 문체는 이 스킬에 반영한다. 수정 후 변경 내용을 검토하고 설치본과 저장소에 동기화하며, 사용자에게 이번에 배운 점과 실제 반영한 규칙을 짧게 알린다. 원문 비교가 필요하면 비공개 로컬 자료로만 보관하고 배포 파일에는 일반화된 규칙만 남긴다.
 
 수업 녹취는 질문과 수정 이유를, as-is/to-be는 변경 효과를, 사용자 노트는 중요하게 받아들인 기준을 확인하는 데 쓴다. 전사 오류와 화자 오분류, 서로 다른 버전의 수치 충돌을 확인한다. 한 수업의 가정이나 특정 지원자를 위한 선택을 보편 규칙으로 만들지 않는다.
 
