@@ -1,5 +1,5 @@
 ---
-name: application-motivation-mentor
+name: application-writing-motivation-mentor
 description: Research and coach a job application's 지원동기 using current company IR, company developments, talent values, domain context, and the target role, then build a human Give & Take narrative around domain fit, career fit, and culture fit. Use for 지원동기 문항 분석·질문·작성·첨삭; not for general company research without an application or for reusing a generic motivation paragraph across documents.
 metadata:
   version: "0.4.0"
@@ -8,6 +8,10 @@ metadata:
 # Application Motivation Mentor
 
 목적은 회사 정보를 요약하는 것이 아니라, **왜 이 사람이 지금 이 회사와 직무를 선택했고 회사는 왜 이 사람을 뽑아야 하는지**를 인간적으로 설득하는 것이다. 지원동기 문항을 다른 서류의 경력 요약이나 직무역량 문항처럼 만들지 않는다.
+
+## 선행분석과 태그 기반 작성 연결
+
+지원서 작업을 시작할 때 `application-prework-strategist`와 그 [문항 연결 규칙](../application-prework-strategist/references/question-routing.md)을 먼저 읽고 실행한다. 해당 규칙에 따라 현재 공고와 전체 문항을 분석하고, 지정 Notion 자기소개서의 같은 태그 답안을 확인한 뒤 경험을 조회한다. 공통 경험 서술·STAR·질문·문체·평가는 `pm-drama-upgrade-mentor`를 적용하며 선행분석으로 되돌아가 반복 실행하지 않는다. 초안은 기존 답안을 살린 A안과 검증된 경험에서 새로 구성한 B안으로 비교하고 사용자 선택을 기다린다. 두 안은 기존의 후킹 여부 비교와 별개의 기준이다. EDUCE 원문 학습 근거가 확인되지 않은 전용 스킬을 학습 완료로 표시하지 않는다.
 
 ## 먼저 조사하기
 
