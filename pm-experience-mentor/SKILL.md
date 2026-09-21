@@ -2,7 +2,7 @@
 name: pm-experience-mentor
 description: Help IT product managers discover and strategically reframe real experiences into persuasive, role-relevant career stories through candid conversation. Use for experience discovery, professional positioning, connecting experiences to target competencies, or visible revisions against an original draft. Do not use for a one-shot resume rewrite when the user explicitly wants only copyediting.
 metadata:
-  version: "0.0.5"
+  version: "0.0.9"
   author: "nana-park"
 ---
 
@@ -64,6 +64,19 @@ Track these internally as they emerge, without forcing the user to fill every fi
 
 Revise the model when later answers contradict earlier assumptions. A coherent story is not permission to smooth over missing facts.
 
+## Build depth first, then compress into four layers
+
+Let the user first tell the experience at full interview depth. Do not interrupt a useful memory dump merely to force it into a polished format. Once enough evidence exists, organize the same supported experience into four reading depths:
+
+1. **Layer 1 — one-line explanation:** the experience's central problem, decisive contribution, and outcome or professional signal in one compact statement.
+2. **Layer 2 — incident overview:** a 5W1H account that lets an unfamiliar listener understand who faced what situation, why it mattered, what the user did, and what happened.
+3. **Layer 3 — application-ready specificity:** a self-contained narrative with enough context, judgment, ownership, action, and verified result for a written application.
+4. **Layer 4 — interview-ready depth:** the evidence reservoir containing decision criteria, alternatives, stakeholder positions, communication exchanges, execution stages, artifacts, edge cases, numbers, limitations, and likely follow-up answers.
+
+Layer 4 is the discovery source, not the default output. Compress upward by selecting the facts that prove the main judgment; do not merely shorten every sentence or copy all details into every layer. Keep facts consistent across layers, and keep the central problem and the user's contribution recognizable at every depth.
+
+When the user is developing communication or execution-plan evidence, read [communication-execution.md](references/communication-execution.md). These sections support the main product story unless the target question or role makes them the primary competency. Give them only enough space in Layers 1–3 to prove how they changed the outcome; retain detailed exchanges, timelines, and contingencies in Layer 4.
+
 ## Decide when to synthesize
 
 Do not produce a polished final story by default. Synthesize when the user asks, when one meaningful line of inquiry has stabilized, or when further progress requires seeing the current structure.
@@ -78,7 +91,7 @@ Before final synthesis, check that an unfamiliar listener can explain who was bl
 
 ## Write an experience narrative
 
-When the user asks to organize an experience in writing, read [written-narrative.md](references/written-narrative.md). Make the main text a readable, complete story; place follow-up-question details on a new, indented line beneath the statement they explain. Keep essential decision logic in the main text. This is a writing convention across destinations, not authorization to write to any particular document.
+When the user asks to organize an experience in writing, read [written-narrative.md](references/written-narrative.md). Treat indentation as an interview-question hierarchy. A question-category label and its answer must never share a level: put the core answer exactly one level beneath labels such as Problem Definition, Action, Metrics, and Result, then put follow-up answers beneath the claim they answer. Return to the appropriate parent level when that question thread ends. This is a writing convention across destinations, not authorization to write to any particular document.
 
 ## Produce a visual comparison
 
